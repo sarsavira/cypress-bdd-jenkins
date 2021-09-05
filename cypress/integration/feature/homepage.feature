@@ -21,4 +21,3 @@ Feature: BDD Atlas Homepage
         | White |
         | Blue  | 
         | Cyan  | 
-        | Yellow|
