@@ -33,7 +33,7 @@ pipeline {
                     reportName: 'BDD Atlas MultiCucumber Reporter', 
                     reportTitles: ''])
             }
-        })
+        }
     }
 
     //yang di excecute
