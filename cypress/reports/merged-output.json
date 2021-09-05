@@ -32,7 +32,7 @@
             "name": "I open BDD Atlas Web",
             "result": {
               "status": "passed",
-              "duration": 3294000000
+              "duration": 4453000000
             }
           },
           {
@@ -42,7 +42,7 @@
             "name": "I type a quote: Menulis",
             "result": {
               "status": "passed",
-              "duration": 409000000
+              "duration": 472000000
             }
           },
           {
@@ -52,7 +52,7 @@
             "name": "I choose Yellow color",
             "result": {
               "status": "passed",
-              "duration": 269000000
+              "duration": 230000000
             }
           },
           {
@@ -62,7 +62,7 @@
             "name": "I verify quote submitted \"Yellow\" and \"Menulis\"",
             "result": {
               "status": "passed",
-              "duration": 184000000
+              "duration": 251000000
             }
           },
           {
@@ -72,7 +72,7 @@
             "name": "I verify quote has been deleted: Menulis",
             "result": {
               "status": "passed",
-              "duration": 292000000
+              "duration": 426000000
             }
           }
         ]
@@ -101,7 +101,7 @@
             "name": "I open BDD Atlas Web",
             "result": {
               "status": "passed",
-              "duration": 582000000
+              "duration": 1116000000
             }
           },
           {
@@ -111,7 +111,7 @@
             "name": "I type a quote: Menulis",
             "result": {
               "status": "passed",
-              "duration": 313000000
+              "duration": 373000000
             }
           },
           {
@@ -121,7 +121,7 @@
             "name": "I choose White color",
             "result": {
               "status": "passed",
-              "duration": 235000000
+              "duration": 223000000
             }
           },
           {
@@ -131,7 +131,7 @@
             "name": "I verify quote submitted \"White\" and \"Menulis\"",
             "result": {
               "status": "passed",
-              "duration": 773000000
+              "duration": 210000000
             }
           },
           {
@@ -141,7 +141,7 @@
             "name": "I verify quote has been deleted: Menulis",
             "result": {
               "status": "passed",
-              "duration": 454000000
+              "duration": 212000000
             }
           }
         ]
@@ -170,7 +170,7 @@
             "name": "I open BDD Atlas Web",
             "result": {
               "status": "passed",
-              "duration": 947000000
+              "duration": 533000000
             }
           },
           {
@@ -180,7 +180,7 @@
             "name": "I type a quote: Menulis",
             "result": {
               "status": "passed",
-              "duration": 335000000
+              "duration": 384000000
             }
           },
           {
@@ -190,7 +190,7 @@
             "name": "I choose Blue color",
             "result": {
               "status": "passed",
-              "duration": 206000000
+              "duration": 230000000
             }
           },
           {
@@ -200,7 +200,7 @@
             "name": "I verify quote submitted \"Blue\" and \"Menulis\"",
             "result": {
               "status": "passed",
-              "duration": 174000000
+              "duration": 184000000
             }
           },
           {
@@ -210,7 +210,7 @@
             "name": "I verify quote has been deleted: Menulis",
             "result": {
               "status": "passed",
-              "duration": 176000000
+              "duration": 209000000
             }
           }
         ]
@@ -239,7 +239,7 @@
             "name": "I open BDD Atlas Web",
             "result": {
               "status": "passed",
-              "duration": 451000000
+              "duration": 509000000
             }
           },
           {
@@ -249,7 +249,7 @@
             "name": "I type a quote: Menulis",
             "result": {
               "status": "passed",
-              "duration": 318000000
+              "duration": 373000000
             }
           },
           {
@@ -259,7 +259,7 @@
             "name": "I choose Cyan color",
             "result": {
               "status": "passed",
-              "duration": 190000000
+              "duration": 178000000
             }
           },
           {
@@ -269,7 +269,7 @@
             "name": "I verify quote submitted \"Cyan\" and \"Menulis\"",
             "result": {
               "status": "passed",
-              "duration": 164000000
+              "duration": 225000000
             }
           },
           {
@@ -279,7 +279,7 @@
             "name": "I verify quote has been deleted: Menulis",
             "result": {
               "status": "passed",
-              "duration": 183000000
+              "duration": 235000000
             }
           }
         ]
@@ -308,7 +308,7 @@
             "name": "I open BDD Atlas Web",
             "result": {
               "status": "passed",
-              "duration": 410000000
+              "duration": 457000000
             }
           },
           {
@@ -318,7 +318,7 @@
             "name": "I type a quote: Menulis",
             "result": {
               "status": "passed",
-              "duration": 309000000
+              "duration": 340000000
             }
           },
           {
@@ -328,7 +328,7 @@
             "name": "I choose Yellow color",
             "result": {
               "status": "passed",
-              "duration": 179000000
+              "duration": 215000000
             }
           },
           {
@@ -338,7 +338,7 @@
             "name": "I verify quote submitted \"Yellow\" and \"Menulis\"",
             "result": {
               "status": "passed",
-              "duration": 191000000
+              "duration": 233000000
             }
           },
           {
@@ -348,7 +348,7 @@
             "name": "I verify quote has been deleted: Menulis",
             "result": {
               "status": "passed",
-              "duration": 499000000
+              "duration": 218000000
             }
           }
         ]
