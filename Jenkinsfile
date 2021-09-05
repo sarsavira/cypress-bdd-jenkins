@@ -21,7 +21,7 @@ pipeline {
                 sh "npm test"
             }
         }
-        stage('generate report'{
+        stage('generate report'){
              steps{
                 sh "npm run reporter"
                 publishHTML([
