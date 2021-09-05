@@ -1,0 +1,358 @@
+[
+  {
+    "description": "        I want to be able to submit quote and color",
+    "keyword": "Feature",
+    "name": "BDD Atlas Homepage",
+    "line": 1,
+    "id": "bdd-atlas-homepage",
+    "tags": [],
+    "uri": "homepage.feature",
+    "elements": [
+      {
+        "id": "bdd-atlas-homepage;i-want-to-able-to-submit-and-delete-yellow",
+        "keyword": "Scenario",
+        "line": 5,
+        "name": "I want to able to submit and delete yellow",
+        "tags": [
+          {
+            "name": "@TC001",
+            "line": 4
+          },
+          {
+            "name": "@YellowColor",
+            "line": 4
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "I open BDD Atlas Web",
+            "result": {
+              "status": "passed",
+              "duration": 3294000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "I type a quote: Menulis",
+            "result": {
+              "status": "passed",
+              "duration": 409000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "I choose Yellow color",
+            "result": {
+              "status": "passed",
+              "duration": 269000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "I verify quote submitted \"Yellow\" and \"Menulis\"",
+            "result": {
+              "status": "passed",
+              "duration": 184000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "I verify quote has been deleted: Menulis",
+            "result": {
+              "status": "passed",
+              "duration": 292000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "bdd-atlas-homepage;i-want-to-able-to-submit-and-delete-white",
+        "keyword": "Scenario",
+        "line": 21,
+        "name": "I want to able to submit and delete White",
+        "tags": [
+          {
+            "name": "@TC001",
+            "line": 12
+          },
+          {
+            "name": "@AllColor",
+            "line": 12
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 14,
+            "name": "I open BDD Atlas Web",
+            "result": {
+              "status": "passed",
+              "duration": 582000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 15,
+            "name": "I type a quote: Menulis",
+            "result": {
+              "status": "passed",
+              "duration": 313000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 16,
+            "name": "I choose White color",
+            "result": {
+              "status": "passed",
+              "duration": 235000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 17,
+            "name": "I verify quote submitted \"White\" and \"Menulis\"",
+            "result": {
+              "status": "passed",
+              "duration": 773000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 18,
+            "name": "I verify quote has been deleted: Menulis",
+            "result": {
+              "status": "passed",
+              "duration": 454000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "bdd-atlas-homepage;i-want-to-able-to-submit-and-delete-blue",
+        "keyword": "Scenario",
+        "line": 22,
+        "name": "I want to able to submit and delete Blue",
+        "tags": [
+          {
+            "name": "@TC001",
+            "line": 12
+          },
+          {
+            "name": "@AllColor",
+            "line": 12
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 14,
+            "name": "I open BDD Atlas Web",
+            "result": {
+              "status": "passed",
+              "duration": 947000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 15,
+            "name": "I type a quote: Menulis",
+            "result": {
+              "status": "passed",
+              "duration": 335000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 16,
+            "name": "I choose Blue color",
+            "result": {
+              "status": "passed",
+              "duration": 206000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 17,
+            "name": "I verify quote submitted \"Blue\" and \"Menulis\"",
+            "result": {
+              "status": "passed",
+              "duration": 174000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 18,
+            "name": "I verify quote has been deleted: Menulis",
+            "result": {
+              "status": "passed",
+              "duration": 176000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "bdd-atlas-homepage;i-want-to-able-to-submit-and-delete-cyan",
+        "keyword": "Scenario",
+        "line": 23,
+        "name": "I want to able to submit and delete Cyan",
+        "tags": [
+          {
+            "name": "@TC001",
+            "line": 12
+          },
+          {
+            "name": "@AllColor",
+            "line": 12
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 14,
+            "name": "I open BDD Atlas Web",
+            "result": {
+              "status": "passed",
+              "duration": 451000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 15,
+            "name": "I type a quote: Menulis",
+            "result": {
+              "status": "passed",
+              "duration": 318000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 16,
+            "name": "I choose Cyan color",
+            "result": {
+              "status": "passed",
+              "duration": 190000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 17,
+            "name": "I verify quote submitted \"Cyan\" and \"Menulis\"",
+            "result": {
+              "status": "passed",
+              "duration": 164000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 18,
+            "name": "I verify quote has been deleted: Menulis",
+            "result": {
+              "status": "passed",
+              "duration": 183000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "bdd-atlas-homepage;i-want-to-able-to-submit-and-delete-yellow",
+        "keyword": "Scenario",
+        "line": 24,
+        "name": "I want to able to submit and delete Yellow",
+        "tags": [
+          {
+            "name": "@TC001",
+            "line": 12
+          },
+          {
+            "name": "@AllColor",
+            "line": 12
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 14,
+            "name": "I open BDD Atlas Web",
+            "result": {
+              "status": "passed",
+              "duration": 410000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 15,
+            "name": "I type a quote: Menulis",
+            "result": {
+              "status": "passed",
+              "duration": 309000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 16,
+            "name": "I choose Yellow color",
+            "result": {
+              "status": "passed",
+              "duration": 179000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 17,
+            "name": "I verify quote submitted \"Yellow\" and \"Menulis\"",
+            "result": {
+              "status": "passed",
+              "duration": 191000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 18,
+            "name": "I verify quote has been deleted: Menulis",
+            "result": {
+              "status": "passed",
+              "duration": 499000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

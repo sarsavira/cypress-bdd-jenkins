@@ -1,0 +1,506 @@
+{
+  "app": 0,
+  "customMetadata": false,
+  "customData": null,
+  "style": "style.css",
+  "useCDN": false,
+  "hideMetadata": false,
+  "displayReportTime": false,
+  "displayDuration": true,
+  "browser": 1,
+  "name": "",
+  "version": "version",
+  "time": "2021-09-05T04:59:40.410Z",
+  "features": [
+    {
+      "description": "        I want to be able to submit quote and color",
+      "keyword": "Feature",
+      "name": "BDD Atlas Homepage",
+      "line": 1,
+      "id": "5e19568b-fe05-417b-9aca-8a138a74cd0c-bdd-atlas-homepage",
+      "tags": [],
+      "uri": "homepage.feature",
+      "elements": [
+        {
+          "id": "bdd-atlas-homepage;i-want-to-able-to-submit-and-delete-yellow",
+          "keyword": "Scenario",
+          "line": 5,
+          "name": "I want to able to submit and delete yellow",
+          "tags": [
+            {
+              "name": "@TC001",
+              "line": 4
+            },
+            {
+              "name": "@YellowColor",
+              "line": 4
+            }
+          ],
+          "type": "scenario",
+          "steps": [
+            {
+              "arguments": [],
+              "keyword": "Given ",
+              "line": 6,
+              "name": "I open BDD Atlas Web",
+              "result": {
+                "status": "passed",
+                "duration": 3294000000
+              },
+              "time": "00:00:03.294"
+            },
+            {
+              "arguments": [],
+              "keyword": "When ",
+              "line": 7,
+              "name": "I type a quote: Menulis",
+              "result": {
+                "status": "passed",
+                "duration": 409000000
+              },
+              "time": "00:00:00.409"
+            },
+            {
+              "arguments": [],
+              "keyword": "And ",
+              "line": 8,
+              "name": "I choose Yellow color",
+              "result": {
+                "status": "passed",
+                "duration": 269000000
+              },
+              "time": "00:00:00.269"
+            },
+            {
+              "arguments": [],
+              "keyword": "Then ",
+              "line": 9,
+              "name": "I verify quote submitted \"Yellow\" and \"Menulis\"",
+              "result": {
+                "status": "passed",
+                "duration": 184000000
+              },
+              "time": "00:00:00.184"
+            },
+            {
+              "arguments": [],
+              "keyword": "Then ",
+              "line": 10,
+              "name": "I verify quote has been deleted: Menulis",
+              "result": {
+                "status": "passed",
+                "duration": 292000000
+              },
+              "time": "00:00:00.292"
+            }
+          ],
+          "passed": 5,
+          "failed": 0,
+          "notDefined": 0,
+          "skipped": 0,
+          "pending": 0,
+          "ambiguous": 0,
+          "duration": 4448000000,
+          "time": "00:00:04.448"
+        },
+        {
+          "id": "bdd-atlas-homepage;i-want-to-able-to-submit-and-delete-white",
+          "keyword": "Scenario",
+          "line": 21,
+          "name": "I want to able to submit and delete White",
+          "tags": [
+            {
+              "name": "@TC001",
+              "line": 12
+            },
+            {
+              "name": "@AllColor",
+              "line": 12
+            }
+          ],
+          "type": "scenario",
+          "steps": [
+            {
+              "arguments": [],
+              "keyword": "Given ",
+              "line": 14,
+              "name": "I open BDD Atlas Web",
+              "result": {
+                "status": "passed",
+                "duration": 582000000
+              },
+              "time": "00:00:00.582"
+            },
+            {
+              "arguments": [],
+              "keyword": "When ",
+              "line": 15,
+              "name": "I type a quote: Menulis",
+              "result": {
+                "status": "passed",
+                "duration": 313000000
+              },
+              "time": "00:00:00.313"
+            },
+            {
+              "arguments": [],
+              "keyword": "And ",
+              "line": 16,
+              "name": "I choose White color",
+              "result": {
+                "status": "passed",
+                "duration": 235000000
+              },
+              "time": "00:00:00.235"
+            },
+            {
+              "arguments": [],
+              "keyword": "Then ",
+              "line": 17,
+              "name": "I verify quote submitted \"White\" and \"Menulis\"",
+              "result": {
+                "status": "passed",
+                "duration": 773000000
+              },
+              "time": "00:00:00.773"
+            },
+            {
+              "arguments": [],
+              "keyword": "Then ",
+              "line": 18,
+              "name": "I verify quote has been deleted: Menulis",
+              "result": {
+                "status": "passed",
+                "duration": 454000000
+              },
+              "time": "00:00:00.454"
+            }
+          ],
+          "passed": 5,
+          "failed": 0,
+          "notDefined": 0,
+          "skipped": 0,
+          "pending": 0,
+          "ambiguous": 0,
+          "duration": 2357000000,
+          "time": "00:00:02.357"
+        },
+        {
+          "id": "bdd-atlas-homepage;i-want-to-able-to-submit-and-delete-blue",
+          "keyword": "Scenario",
+          "line": 22,
+          "name": "I want to able to submit and delete Blue",
+          "tags": [
+            {
+              "name": "@TC001",
+              "line": 12
+            },
+            {
+              "name": "@AllColor",
+              "line": 12
+            }
+          ],
+          "type": "scenario",
+          "steps": [
+            {
+              "arguments": [],
+              "keyword": "Given ",
+              "line": 14,
+              "name": "I open BDD Atlas Web",
+              "result": {
+                "status": "passed",
+                "duration": 947000000
+              },
+              "time": "00:00:00.947"
+            },
+            {
+              "arguments": [],
+              "keyword": "When ",
+              "line": 15,
+              "name": "I type a quote: Menulis",
+              "result": {
+                "status": "passed",
+                "duration": 335000000
+              },
+              "time": "00:00:00.335"
+            },
+            {
+              "arguments": [],
+              "keyword": "And ",
+              "line": 16,
+              "name": "I choose Blue color",
+              "result": {
+                "status": "passed",
+                "duration": 206000000
+              },
+              "time": "00:00:00.206"
+            },
+            {
+              "arguments": [],
+              "keyword": "Then ",
+              "line": 17,
+              "name": "I verify quote submitted \"Blue\" and \"Menulis\"",
+              "result": {
+                "status": "passed",
+                "duration": 174000000
+              },
+              "time": "00:00:00.174"
+            },
+            {
+              "arguments": [],
+              "keyword": "Then ",
+              "line": 18,
+              "name": "I verify quote has been deleted: Menulis",
+              "result": {
+                "status": "passed",
+                "duration": 176000000
+              },
+              "time": "00:00:00.176"
+            }
+          ],
+          "passed": 5,
+          "failed": 0,
+          "notDefined": 0,
+          "skipped": 0,
+          "pending": 0,
+          "ambiguous": 0,
+          "duration": 1838000000,
+          "time": "00:00:01.838"
+        },
+        {
+          "id": "bdd-atlas-homepage;i-want-to-able-to-submit-and-delete-cyan",
+          "keyword": "Scenario",
+          "line": 23,
+          "name": "I want to able to submit and delete Cyan",
+          "tags": [
+            {
+              "name": "@TC001",
+              "line": 12
+            },
+            {
+              "name": "@AllColor",
+              "line": 12
+            }
+          ],
+          "type": "scenario",
+          "steps": [
+            {
+              "arguments": [],
+              "keyword": "Given ",
+              "line": 14,
+              "name": "I open BDD Atlas Web",
+              "result": {
+                "status": "passed",
+                "duration": 451000000
+              },
+              "time": "00:00:00.451"
+            },
+            {
+              "arguments": [],
+              "keyword": "When ",
+              "line": 15,
+              "name": "I type a quote: Menulis",
+              "result": {
+                "status": "passed",
+                "duration": 318000000
+              },
+              "time": "00:00:00.318"
+            },
+            {
+              "arguments": [],
+              "keyword": "And ",
+              "line": 16,
+              "name": "I choose Cyan color",
+              "result": {
+                "status": "passed",
+                "duration": 190000000
+              },
+              "time": "00:00:00.190"
+            },
+            {
+              "arguments": [],
+              "keyword": "Then ",
+              "line": 17,
+              "name": "I verify quote submitted \"Cyan\" and \"Menulis\"",
+              "result": {
+                "status": "passed",
+                "duration": 164000000
+              },
+              "time": "00:00:00.164"
+            },
+            {
+              "arguments": [],
+              "keyword": "Then ",
+              "line": 18,
+              "name": "I verify quote has been deleted: Menulis",
+              "result": {
+                "status": "passed",
+                "duration": 183000000
+              },
+              "time": "00:00:00.183"
+            }
+          ],
+          "passed": 5,
+          "failed": 0,
+          "notDefined": 0,
+          "skipped": 0,
+          "pending": 0,
+          "ambiguous": 0,
+          "duration": 1306000000,
+          "time": "00:00:01.306"
+        },
+        {
+          "id": "bdd-atlas-homepage;i-want-to-able-to-submit-and-delete-yellow",
+          "keyword": "Scenario",
+          "line": 24,
+          "name": "I want to able to submit and delete Yellow",
+          "tags": [
+            {
+              "name": "@TC001",
+              "line": 12
+            },
+            {
+              "name": "@AllColor",
+              "line": 12
+            }
+          ],
+          "type": "scenario",
+          "steps": [
+            {
+              "arguments": [],
+              "keyword": "Given ",
+              "line": 14,
+              "name": "I open BDD Atlas Web",
+              "result": {
+                "status": "passed",
+                "duration": 410000000
+              },
+              "time": "00:00:00.410"
+            },
+            {
+              "arguments": [],
+              "keyword": "When ",
+              "line": 15,
+              "name": "I type a quote: Menulis",
+              "result": {
+                "status": "passed",
+                "duration": 309000000
+              },
+              "time": "00:00:00.309"
+            },
+            {
+              "arguments": [],
+              "keyword": "And ",
+              "line": 16,
+              "name": "I choose Yellow color",
+              "result": {
+                "status": "passed",
+                "duration": 179000000
+              },
+              "time": "00:00:00.179"
+            },
+            {
+              "arguments": [],
+              "keyword": "Then ",
+              "line": 17,
+              "name": "I verify quote submitted \"Yellow\" and \"Menulis\"",
+              "result": {
+                "status": "passed",
+                "duration": 191000000
+              },
+              "time": "00:00:00.191"
+            },
+            {
+              "arguments": [],
+              "keyword": "Then ",
+              "line": 18,
+              "name": "I verify quote has been deleted: Menulis",
+              "result": {
+                "status": "passed",
+                "duration": 499000000
+              },
+              "time": "00:00:00.499"
+            }
+          ],
+          "passed": 5,
+          "failed": 0,
+          "notDefined": 0,
+          "skipped": 0,
+          "pending": 0,
+          "ambiguous": 0,
+          "duration": 1588000000,
+          "time": "00:00:01.588"
+        }
+      ],
+      "metadata": {
+        "browser": {
+          "name": "chrome",
+          "version": "93"
+        },
+        "device": "Local test machine",
+        "platform": {
+          "name": "osx",
+          "version": "Big Sur"
+        }
+      },
+      "scenarios": {
+        "passed": 5,
+        "failed": 0,
+        "notDefined": 0,
+        "skipped": 0,
+        "pending": 0,
+        "ambiguous": 0,
+        "passedPercentage": "100.00",
+        "failedPercentage": "0.00",
+        "notdefinedPercentage": "0.00",
+        "skippedPercentage": "0.00",
+        "pendingPercentage": "0.00",
+        "ambiguousPercentage": "0.00",
+        "total": 5
+      },
+      "duration": 11537000000,
+      "time": "00:00:11.537",
+      "isFailed": false,
+      "isAmbiguous": false,
+      "isSkipped": false,
+      "isNotdefined": false,
+      "isPending": false,
+      "app": 0,
+      "browser": 0,
+      "passed": null,
+      "totalTime": null
+    }
+  ],
+  "featureCount": {
+    "ambiguous": 0,
+    "failed": 0,
+    "passed": 1,
+    "notDefined": 0,
+    "pending": 0,
+    "skipped": 0,
+    "total": 1,
+    "ambiguousPercentage": "0.00",
+    "failedPercentage": "0.00",
+    "notdefinedPercentage": "0.00",
+    "pendingPercentage": "0.00",
+    "skippedPercentage": "0.00",
+    "passedPercentage": "100.00"
+  },
+  "reportName": "BDD Atlas",
+  "scenarios": {
+    "failed": 0,
+    "ambiguous": 0,
+    "notDefined": 0,
+    "pending": 0,
+    "skipped": 0,
+    "passed": 5,
+    "total": 5,
+    "ambiguousPercentage": "0.00",
+    "failedPercentage": "0.00",
+    "notdefinedPercentage": "0.00",
+    "passedPercentage": "100.00",
+    "pendingPercentage": "0.00",
+    "skippedPercentage": "0.00"
+  },
+  "totalTime": 0
+}
